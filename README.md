@@ -62,4 +62,3 @@ docs/COMPTE_RENDU.md                trame du compte rendu + réponses aux questi
 
 - Manuels : liste de la section 8 du TP, reprise dans `docs/COMPTE_RENDU.md`.
 - Automatiques (DAO) : `./gradlew connectedDebugAndroidTest` avec un appareil/émulateur branché.
-# ContactsV4-
