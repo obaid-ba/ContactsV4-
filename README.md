@@ -18,6 +18,21 @@ Application Kotlin / XML : contacts persistants dans **SQLite** (API native, san
    Sans clé, tout fonctionne sauf l'affichage des tuiles de la carte (fond gris).
 3. Lancer sur un émulateur (avec Google Play pour la carte) ou un téléphone : **Run ▶**.
 
+## Captures d'écran
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/liste.png" width="240" alt="Liste des contacts"><br>Liste chargée depuis SQLite</td>
+    <td align="center"><img src="docs/screenshots/detail.png" width="240" alt="Fiche contact"><br>Fiche contact (modification)</td>
+    <td align="center"><img src="docs/screenshots/parametres.png" width="240" alt="Paramètres"><br>Écran Paramètres</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/liste_preferences.png" width="240" alt="Liste avec préférences"><br>Grande taille, bleu, bouton Appeler</td>
+    <td align="center"><img src="docs/screenshots/carte.png" width="240" alt="Carte"><br>Position du contact sur Google Maps</td>
+    <td></td>
+  </tr>
+</table>
+
 ## Structure
 
 ```
