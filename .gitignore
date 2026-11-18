@@ -1,0 +1,21 @@
+# Build
+*.iml
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE
+.idea/
+*.apk
+*.aab
+
+# SECRETS : ne jamais publier (la clé Google Maps vit dans local.properties)
+local.properties
+secrets.properties
+google-services.json
+*.jks
+*.keystore
+
+.DS_Store

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Dossier temporaire (cache) où l'application Caméra dépose la photo avant import -->
+<paths>
+    <cache-path name="camera" path="camera/" />
+</paths>
